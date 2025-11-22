@@ -1,4 +1,4 @@
-## Diabetes Health Indicators – Data Analysis Project
+# Diabetes Health Indicators – Data Analysis Project
 End-to-End Analytics • A/B Testing • Predictive Modeling • Business Insights
 # Introduction
 
@@ -225,7 +225,7 @@ Generate final insights
 Download the dataset from Kaggle:
 "Diabetes Health Indicators Dataset" by mohankrishnathalla
 
-## Summary of Findings
+# Summary of Findings
 
 Low physical activity increases diabetes risk by 21%
 
