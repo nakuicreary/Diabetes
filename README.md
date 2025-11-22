@@ -1,5 +1,6 @@
 # Diabetes Health Indicators – Data Analysis Project
 End-to-End Analytics • A/B Testing • Predictive Modeling • Business Insights
+
 # Introduction
 
 This project analyzes the Diabetes Health Indicators Dataset from Kaggle to understand key lifestyle, biological, and behavioral factors associated with diabetes risk.
@@ -70,7 +71,7 @@ KPI dashboards
 
 The project includes 5 A/B tests using multiple non-parametric and matching methods. Each test investigates a key diabetes-related factor.
 
-### Test 1 — Hypertension vs. No Hypertension (BMI Differences) — Mann–Whitney U Test
+# Test 1 — Hypertension vs. No Hypertension (BMI Differences) — Mann–Whitney U Test
 
 Question: Do individuals with high blood pressure have higher BMI?
 Result:
@@ -108,7 +109,7 @@ Results:
 
 High-cholesterol individuals had 27% higher diabetes risk
 
-📊 Key Visualizations
+# Key Visualizations
 
 KPI Card Dashboard
 
@@ -122,7 +123,7 @@ Distribution plots for glucose, HbA1c, and BMI
 
 All visualizations were created using Matplotlib and Seaborn.
 
-🤖 Predictive Modeling
+# Predictive Modeling
 
 A simple baseline classifier was built using a Logistic Regression model to predict diabetes.
 
@@ -146,7 +147,7 @@ Physical activity
 
 The model reduced RMSE by 22% compared to the baseline.
 
-📈 Business Insights
+# Business Insights
 ✔ High-Impact Factors
 
 These variables showed the strongest influence on diabetes risk:
