@@ -9,7 +9,7 @@ Using Python, statistical testing, data visualizations, and predictive modeling,
 
 # Dataset Overview
 
-Source: Diabetes Health Indicators Dataset – Kaggle (mohankrishnathalla)
+Source: [Diabetes Health Indicators Dataset]([https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies](https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset)
 
 The dataset includes 30+ health-related variables, including:
 
@@ -231,7 +231,7 @@ Generate final insights
 # Dataset
 
 Download the dataset from Kaggle:
-"Diabetes Health Indicators Dataset" by mohankrishnathalla
+[Diabetes Health Indicators Dataset]([https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies](https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset)
 
 # Summary of Findings
 
