@@ -27,7 +27,7 @@ Total rows: varies by sample size
 Total columns: 30+ variables
 
 # Project Workflow
-✔ 1. Data Cleaning & Preparation
+1. Data Cleaning & Preparation
 
 Removed missing and invalid values
 
@@ -37,7 +37,7 @@ Standardized numerical features
 
 Validated data types to support modeling and statistical tests
 
-✔ 2. Automated Data Pipeline
+2. Automated Data Pipeline
 
 Created automated Jupyter Notebook pipeline for:
 
@@ -53,7 +53,7 @@ Running predictive models
 
 Reduced manual analysis time by 40%
 
-✔ 3. Exploratory Data Analysis
+3. Exploratory Data Analysis
 
 Generated KPI cards (Avg BMI, Avg HbA1c, Avg Physical Activity)
 
@@ -67,11 +67,11 @@ Correlation heatmaps
 
 KPI dashboards
 
-🧪 A/B Testing & Statistical Analysis
+A/B Testing & Statistical Analysis
 
 The project includes 5 A/B tests using multiple non-parametric and matching methods. Each test investigates a key diabetes-related factor.
 
-# Test 1 — Hypertension vs. No Hypertension (BMI Differences) — Mann–Whitney U Test
+Test 1 — Hypertension vs. No Hypertension (BMI Differences) — Mann–Whitney U Test
 
 Question: Do individuals with high blood pressure have higher BMI?
 Result:
@@ -147,8 +147,9 @@ Physical activity
 
 The model reduced RMSE by 22% compared to the baseline.
 
-# Business Insights
-✔ High-Impact Factors
+# Data Insights
+
+High-Impact Factors
 
 These variables showed the strongest influence on diabetes risk:
 
@@ -164,7 +165,7 @@ Hypertension
 
 Family history
 
-✔ Recommendations for Healthcare & Public Health
+Recommendations for Healthcare & Public Health
 
 Encourage early screening for people with elevated BMI or family history
 
