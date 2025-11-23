@@ -37,6 +37,7 @@ Standardized numerical features
 
 Validated data types to support modeling and statistical tests
 
+
 2. Automated Data Pipeline
 
 Created automated Jupyter Notebook pipeline for:
@@ -71,6 +72,7 @@ A/B Testing & Statistical Analysis
 
 The project includes 5 A/B tests using multiple non-parametric and matching methods. Each test investigates a key diabetes-related factor.
 
+
 Test 1 — Hypertension vs. No Hypertension (BMI Differences) — Mann–Whitney U Test
 
 Question: Do individuals with high blood pressure have higher BMI?
@@ -80,11 +82,13 @@ Median BMI was 18% higher among those with high blood pressure.
 
 p-value < 0.001 → Statistically significant difference.
 
+
 Test 2 — Family History & Diabetes Rate (Proportion Test)
 
 Result:
 
 Diabetes prevalence was 32% higher among people with a family history of diabetes.
+
 
 Test 3 — Low vs. High Physical Activity (Propensity Score Matching)
 
@@ -94,6 +98,7 @@ Results:
 
 Low-activity individuals had 21% higher diabetes prevalence after matching.
 
+
 Test 4 — Smokers vs. Non-Smokers (BMI Differences — Mann–Whitney U)
 
 Smokers = “Former” + “Current”
@@ -102,6 +107,7 @@ Non-smokers = “Never”
 Results:
 
 Smokers had 9% higher median BMI, p < 0.01
+
 
 Test 5 — High Cholesterol vs. Normal Cholesterol (Permutation Test)
 
