@@ -231,7 +231,7 @@ Generate final insights
 # Dataset
 
 Download the dataset from Kaggle:
-[Diabetes Health Indicators Dataset]([https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies](https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset)
+[Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset)
 
 # Summary of Findings
 
